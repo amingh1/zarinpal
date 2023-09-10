@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'YekanBakh';
+    font-style: normal;
+    font-weight: 400;
+    src: local('/assets/YekanBakh'),
+         url('/assets/YekanBakh/woff2/YekanBakh-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('/assets/YekanBakh/woff/YekanBakh-Regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  };
+  @font-face {
+    font-family: 'YekanBakh';
+    font-style: bold;
+    font-weight: 800;
+    src: local('/assets/YekanBakh'),
+         url('/assets/YekanBakh/woff2/YekanBakh-Bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('/assets/YekanBakh/woff/YekanBakh-Bold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  };
+  @font-face {
+    font-family: 'YekanBakh';
+    font-style: black;
+    font-weight: 900;
+    src: local('/assets/YekanBakh'),
+         url('/assets/YekanBakh/woff2/YekanBakh-Black.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('/assets/YekanBakh/woff/YekanBakh-Black.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  };

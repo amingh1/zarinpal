@@ -1,0 +1,5 @@
+blue dark color : #21254e ;
+blue light colo ::rgba(232,239,254,.6) ;
+yellow button color : transparent linear-gradient(270deg,#ffd900,#ffe422) 0 0 no-repeat padding-box ;
+yellow light badget : #fbf6f1 ;
+border top menu yellow : #f8e88b ;
